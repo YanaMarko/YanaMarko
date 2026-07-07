@@ -1,1 +1,1 @@
-![GitHub Metrics](https://metrics.lecoq.io/insights/YanaMarko)
+![GitHub Metrics](github-metrics.svg)
